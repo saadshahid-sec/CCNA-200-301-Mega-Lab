@@ -12,3 +12,6 @@ TOOL: Cisco Packet Tracer
 <br>
 Focus: CCNA-level networking, configuration
 
+
+## Network-Topology
+<img width="1920" height="993" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/663da075-2535-408a-b58b-d3b4c1af7c9c" />
